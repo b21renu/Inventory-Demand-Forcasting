@@ -1,7 +1,9 @@
-SUMMARY:
+# INVENTORY DEMAND FORCASTING
+
+## OVERVIEW
 Looking to predict Walmart's sales accurately? We use smart methods to understand what customers want. By diving deep into data, we find important trends and patterns that affect what people buy. Our models are like finely-tuned machines, giving reliable results and adjusting to changes in the market. We're always looking for ways to make our predictions even better, so you stay ahead of the game. And we don't stop at predictions. We give practical advice tailored to Walmart's challenges, helping you make real-world decisions that work. In short, we help Walmart understand what customers want, predict sales accurately, and give practical advice for success.
 
-STEPS OF MODEL IMPLEMENTATION: 
+## STEPS OF MODEL IMPLEMENTATION: 
 1. MOUNT DRIVE
 2. IMPORT LIBRARIES
 3. LOAD DATASET
